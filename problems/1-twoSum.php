@@ -2,7 +2,7 @@
 
 function twoSum($nums, $target): array {
 
-    $numMap = [5 => 0,];
+    $numMap = [];
 
 
     for ($i = 0; $i < count($nums); $i++) {
