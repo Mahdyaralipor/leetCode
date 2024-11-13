@@ -1,4 +1,5 @@
-run : localhost
+run : local
+
 	php -S localhost:8000
 
 ## problem 1
