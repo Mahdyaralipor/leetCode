@@ -14,8 +14,8 @@
 
                 $dir = opendir('./problems/');
 
-                while (($file = readdir($dir)) !== false) {            
-                    echo str_contains($file, 'php') ? "<a href=https://github.com/Mahdyaralipor/leetCode/blob/main/$file>" . str_replace('.php','',$file) . "</a>". "</br>" : '';
+                while (($file = readdir($dir)) !== false) {         
+                    echo str_contains($file, 'php') ? "<a href=https://github.com/Mahdyaralipor/leetCode/blob/main/problems/$file>" . str_replace('.php','',$file) . "</a>". "</br>" : '';
                 }
 
                 closedir($dir);
