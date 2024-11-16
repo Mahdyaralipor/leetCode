@@ -25,5 +25,3 @@
         }
         return $dummyHead->next;
     }
-
-    // var_dump(addTwoNumbers([2,4,3], [5,6,4]));
