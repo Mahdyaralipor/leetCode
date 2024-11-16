@@ -13,10 +13,10 @@ Git برای کلون کردن مخزن
 ### نصب
 ابتدا مخزن را کلون کنید:
 
-git clone https://github.com/your-username/leetcode-solutions.git
+	git clone https://github.com/your-username/leetcode-solutions.git
 
 
-cd leetcode-solutions
+	cd leetcode-solutions
 
 
 
