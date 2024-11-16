@@ -21,3 +21,5 @@ function twoSum($nums, $target): array {
 
     return [];
 }
+
+ var_dump(twoSum([2,7,11,15], 9));

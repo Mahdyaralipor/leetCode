@@ -19,6 +19,7 @@ function lengthOfLongestSubstring(string $s) {
         $maxLength = max($maxLength, $right - $left + 1);
     }
 
-    return $n;
+    return $maxLength;
 }
+
 var_dump(lengthOfLongestSubstring('pwwkew'));
