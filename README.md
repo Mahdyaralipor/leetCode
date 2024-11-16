@@ -1,25 +1,33 @@
-## LeetCode 
+# LeetCode 
 
 
 این مخزن شامل حل مسائل LeetCode به زبان‌ PHP است. هدف این پروژه یادگیری، بهبود مهارت‌های حل مسئله و آمادگی برای مصاحبه‌های شغلی است.
 
-### پیش‌نیازها
+## پیش‌نیازها
+
 برای اجرای این پروژه به موارد زیر نیاز دارید:
 
 PHP برای تست کردن کدها
 
 Git برای کلون کردن مخزن
 
-### نصب
+## نصب
 ابتدا مخزن را کلون کنید:
 
-	git clone https://github.com/your-username/leetcode-solutions.git
+	git clone https://github.com/mahdyaralipor/leetCode.git
 
 
-	cd leetcode-solutions
+	cd leetCode
+
+  	cd problems
+
+## نحوه‌ی استفاده
+برای اجرای یک فایل پی اچ پی :
 
 
 
+	php <file name>
 
+ ## منابع
 
-	php -S localhost:8000
+  - [LeetCode](https://leetcode.com/problemset)
