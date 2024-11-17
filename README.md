@@ -28,6 +28,6 @@ Git برای کلون کردن مخزن
 
 	php <file name>
 
- ## منابع
+ ## منبع
 
   - [LeetCode](https://leetcode.com/problemset)
